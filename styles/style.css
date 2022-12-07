@@ -133,9 +133,7 @@
   flex-wrap: wrap;
   gap: 40px;
   margin: auto;
-
   padding-inline-start: 0%;
-  top: 68px;
   max-width: 760px;
   list-style-type: none;
 }
@@ -394,16 +392,13 @@
   line-height: 30px;
   font-weight: 400;
   max-width: 660px;
-  flex-direction: column;
   margin: 0px 0px 0px 0px;
   padding-left: 120px;
   z-index: 3;
-  gap: 32px;
 }
 
 .about__paragraph {
   margin: 0px;
-  padding-bottom: 32px;
 }
 
 .about__circle {
