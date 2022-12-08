@@ -391,6 +391,9 @@
   font-size: 20px;
   line-height: 30px;
   font-weight: 400;
+  display: flex;
+  gap: 32px;
+  flex-direction: column;
   max-width: 660px;
   margin: 0px 0px 0px 0px;
   padding-left: 120px;
